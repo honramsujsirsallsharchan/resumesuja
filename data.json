@@ -1,0 +1,44 @@
+{
+	"details":{
+		"name":"honey",
+		"image":"image.svg",
+		"phone":"76566759708",
+		"email":"kurapatihoney1@gmail.com"
+	},
+	"education":[
+		{
+		"course":"B Tech(CSE)",
+        "college":"MIC COLLEGE",
+        "per":"78" 
+		},
+		{
+		"course":"INTERMEDIATE(MPC)",
+        "college":"MARIS STELLA COLLEGE",
+        "per":"78" 
+		},
+		{
+		"course":"(10TH)",
+        "college":"RAVINDRA BHARATHI SCHOOL",
+        "per":"8.2"
+		}
+	],
+"skills":[
+{
+	"title":"Programming Languages",
+	"output":[
+		"c","c++","java","python"
+	]
+},
+{
+	"title":"OperatingSystems",
+	"output":[
+		"Windows","Linix","MAC"
+	]
+ }
+],
+"carrier":{
+	"co":"To associate with organization and utilize my technical skills to the growth of our company.iam here to develop my knowledge and it is used for our organization"
+	
+}
+}
+   
